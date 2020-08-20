@@ -1,0 +1,27 @@
+{
+  "name": "typescript-object-mapper",
+  "version": "1.0.0",
+  "description": "A simple dependency to aid in mapping and instantiating typescript classes",
+  "main": "index.ts",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevensroczynski/typescript-object-mapper.git"
+  },
+  "keywords": [
+    "typescript",
+    "object",
+    "mapper",
+    "instantiate",
+    "oop"
+  ],
+  "author": "Steven Sroczynski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevensroczynski/typescript-object-mapper/issues"
+  },
+  "homepage": "https://github.com/stevensroczynski/typescript-object-mapper#readme"
+}

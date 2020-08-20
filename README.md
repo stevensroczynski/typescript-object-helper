@@ -1,0 +1,1 @@
+A simple dependency to aid in mapping and instantiating typescript classes
