@@ -5,6 +5,7 @@
   "main": "index.ts",
   "types": "dist/index.d.ts",
   "scripts": {
+    "prepublish": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +19,9 @@
     "instantiate",
     "oop"
   ],
+  "devDependencies": {
+    "typescript": "^2.7.2"
+  },
   "author": "Steven Sroczynski",
   "license": "MIT",
   "bugs": {
